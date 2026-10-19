@@ -1,6 +1,7 @@
 #pragma once
 
 #include "localsearchsolver/algorithm_formatter.hpp"
+#include <iomanip>
 
 namespace localsearchsolver
 {

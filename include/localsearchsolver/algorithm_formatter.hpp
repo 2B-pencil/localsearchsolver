@@ -3,6 +3,7 @@
 #include "localsearchsolver/common.hpp"
 
 #include <mutex>
+#include <iomanip>
 
 namespace localsearchsolver
 {

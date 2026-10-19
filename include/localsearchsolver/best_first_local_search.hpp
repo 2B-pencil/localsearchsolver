@@ -5,6 +5,7 @@
 #include <unordered_set>
 #include <thread>
 #include <random>
+#include <iomanip>
 
 namespace localsearchsolver
 {

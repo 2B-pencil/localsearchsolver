@@ -3,6 +3,7 @@
 #include "localsearchsolver/algorithm_formatter.hpp"
 
 #include <random>
+#include <iomanip>
 
 namespace localsearchsolver
 {

@@ -5,6 +5,7 @@
 #include "optimizationtools//utils//utils.hpp"
 
 #include <thread>
+#include <iomanip>
 
 namespace localsearchsolver
 {
