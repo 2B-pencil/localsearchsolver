@@ -6,6 +6,7 @@
 
 #include <thread>
 #include <iomanip>
+#include <numeric>
 
 namespace localsearchsolver
 {
